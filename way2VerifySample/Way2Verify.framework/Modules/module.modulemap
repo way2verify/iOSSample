@@ -1,0 +1,6 @@
+framework module Way2Verify {
+  umbrella header "Way2Verify.h"
+
+  export *
+  module * { export * }
+}
